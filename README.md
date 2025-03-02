@@ -1,5 +1,6 @@
 Comprehensive Analysis of Car Accidents 
 By Ruvik Ramon
+Main chart from the EDA :
 ![output](https://github.com/user-attachments/assets/e2d8edf4-9541-43aa-9f9d-b33103791e8e)
 
 This project analyzes traffic accident data to identify key factors influencing accident severity. 
